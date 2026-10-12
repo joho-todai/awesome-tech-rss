@@ -141,6 +141,10 @@ https://www.forbes.com/leadership/feed/
 ```
 http://feeds.feedburner.com/fastcompany/headlines
 ```
+- [情報の灯台 (Joho no Todai, Japanese)](https://joho-todai.com/)
+```
+https://joho-todai.com/pinterest-rss/
+```
 
 ### Products & Ideas
 
