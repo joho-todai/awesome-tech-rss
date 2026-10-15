@@ -145,6 +145,10 @@ http://feeds.feedburner.com/fastcompany/headlines
 ```
 https://joho-todai.com/pinterest-rss/
 ```
+- [Joho no Todai (English)](https://joho-todai.com/)
+```
+https://joho-todai.com/en/rss/
+```
 
 ### Products & Ideas
 
